@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lesson\\repos\\NashDecorIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\nashdecoris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\nashdecoris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "NashDecorIS\\MauiProgram.cs",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\MauiProgram.cs",
+              "RelativeToolTip": "NashDecorIS\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T10:02:02.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NashDecorIS.csproj",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\NashDecorIS.csproj",
+              "RelativeDocumentMoniker": "NashDecorIS\\NashDecorIS.csproj",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\NashDecorIS.csproj",
+              "RelativeToolTip": "NashDecorIS\\NashDecorIS.csproj",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-13T09:00:07.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
