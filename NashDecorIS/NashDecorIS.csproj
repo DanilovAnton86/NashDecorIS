@@ -2,6 +2,7 @@
 
 	<PropertyGroup>
 		<TargetFrameworks>net8.0-android;net8.0-ios;net8.0-maccatalyst</TargetFrameworks>
+		<TargetFrameworks Condition="'$(OS)' == 'Windows_NT'">$(TargetFrameworks);net8.0-windows10.0.19041.0</TargetFrameworks>
 		<OutputType>Exe</OutputType>
 		<RootNamespace>NashDecorIS</RootNamespace>
 		<UseMaui>true</UseMaui>
@@ -16,32 +17,28 @@
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
 		<ApplicationVersion>1</ApplicationVersion>
 
-		<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net8.0-ios'">14.2</SupportedOSPlatformVersion>
-		<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net8.0-maccatalyst'">14.0</SupportedOSPlatformVersion>
-		<SupportedOSPlatformVersion Condition="'$(TargetFramework)' == 'net8.0-android'">24.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">14.2</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'maccatalyst'">14.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'android'">24.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</SupportedOSPlatformVersion>
+		<TargetPlatformMinVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</TargetPlatformMinVersion>
 	</PropertyGroup>
-
+	
 	<ItemGroup>
 		<!-- Основные пакеты MAUI -->
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="8.0.100" />
 		<PackageReference Include="Microsoft.Maui.Core" Version="8.0.100" />
 		<PackageReference Include="Microsoft.Maui.Essentials" Version="8.0.100" />
 
-		<!-- Пакеты Entity Framework -->
-		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.8" />
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
-			<PrivateAssets>all</PrivateAssets>
-			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-		</PackageReference>
-		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">
-			<PrivateAssets>all</PrivateAssets>
-			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-		</PackageReference>
+		<!-- HTTP клиент для API -->
+		<PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+		<PackageReference Include="System.Net.Http.Json" Version="8.0.0" />
 
 		<!-- Логирование -->
 		<PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.1" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -55,7 +52,25 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\..\NashDecor.Data\NashDecor.Data\NashDecor.Data.csproj" />
+		<ProjectReference Include="..\..\NashDecor.Data\NashDecor.Data\NashDecor.Data.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<MauiXaml Update="AddEditPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+		<MauiXaml Update="Views\LoginPage.xaml">
+			<Generator>MSBuild:Compile</Generator>
+		</MauiXaml>
+	</ItemGroup>
+
+	<!-- Удалите ссылки на EF пакеты - они не нужны в мобильном приложении -->
+	<ItemGroup Condition="'$(TargetFramework)' != 'net8.0-windows10.0.19041.0'">
+		<PackageReference Remove="Microsoft.EntityFrameworkCore" />
+		<PackageReference Remove="Microsoft.EntityFrameworkCore.Sqlite" />
+		<PackageReference Remove="Microsoft.EntityFrameworkCore.Design" />
+		<PackageReference Remove="Microsoft.EntityFrameworkCore.Tools" />
+		<PackageReference Remove="Microsoft.Data.SqlClient" />
 	</ItemGroup>
 
 </Project>

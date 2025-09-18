@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "D:\\Lesson\\repos\\NashDecorIS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58B8007B-E57F-481D-B93A-99BFCE683FD4}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{58B8007B-E57F-481D-B93A-99BFCE683FD4}|D:\\Lesson\\repos\\NashDecorIS\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{58B8007B-E57F-481D-B93A-99BFCE683FD4}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{58B8007B-E57F-481D-B93A-99BFCE683FD4}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\nashdecoris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\nashdecoris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\views\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\views\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\services\\apiconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\services\\apiconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|d:\\lesson\\repos\\nashdecoris\\nashdecoris\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51AFA2C3-ED11-46D3-ADA5-64D0D1593C42}|NashDecorIS\\NashDecorIS.csproj|solutionrelative:nashdecoris\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B8007B-E57F-481D-B93A-99BFCE683FD4}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{58B8007B-E57F-481D-B93A-99BFCE683FD4}|D:\\Lesson\\repos\\NashDecorIS\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{58B8007B-E57F-481D-B93A-99BFCE683FD4}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{58B8007B-E57F-481D-B93A-99BFCE683FD4}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +78,195 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEditPage.xaml",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\AddEditPage.xaml",
+              "RelativeDocumentMoniker": "NashDecorIS\\Views\\AddEditPage.xaml",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\AddEditPage.xaml",
+              "RelativeToolTip": "NashDecorIS\\Views\\AddEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-18T09:29:04.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiConstants.cs",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Services\\ApiConstants.cs",
+              "RelativeDocumentMoniker": "NashDecorIS\\Services\\ApiConstants.cs",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Services\\ApiConstants.cs",
+              "RelativeToolTip": "NashDecorIS\\Services\\ApiConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:25:27.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "NashDecorIS\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "NashDecorIS\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:23:58.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "NashDecorIS\\Views\\LoginPage.xaml",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "NashDecorIS\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-18T09:22:15.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "NashDecorIS\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "NashDecorIS\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:20:13.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "NashDecorIS\\Services\\AuthServices.cs",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Services\\AuthServices.cs",
+              "RelativeToolTip": "NashDecorIS\\Services\\AuthServices.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwEcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:19:05.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NashDecorIS\\Views\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "NashDecorIS\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:05:55.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "NashDecorIS\\Views\\MainPage.xaml",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\Views\\MainPage.xaml",
+              "RelativeToolTip": "NashDecorIS\\Views\\MainPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-15T18:05:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "NashDecorIS\\AppShell.xaml.cs",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\AppShell.xaml.cs",
+              "RelativeToolTip": "NashDecorIS\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:55:26.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\AppShell.xaml",
+              "RelativeDocumentMoniker": "NashDecorIS\\AppShell.xaml",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\AppShell.xaml*",
+              "RelativeToolTip": "NashDecorIS\\AppShell.xaml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-15T17:54:33.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\App.xaml",
+              "RelativeDocumentMoniker": "NashDecorIS\\App.xaml",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\App.xaml",
+              "RelativeToolTip": "NashDecorIS\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-14T18:18:40.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NashDecorIS\\App.xaml.cs",
+              "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\App.xaml.cs",
+              "RelativeToolTip": "NashDecorIS\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T18:18:36.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
               "WhenOpened": "2025-09-13T10:59:40.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\MauiProgram.cs",
               "RelativeDocumentMoniker": "NashDecorIS\\MauiProgram.cs",
               "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\MauiProgram.cs",
               "RelativeToolTip": "NashDecorIS\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T10:02:02.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "NashDecorIS.csproj",
               "DocumentMoniker": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\NashDecorIS.csproj",
               "RelativeDocumentMoniker": "NashDecorIS\\NashDecorIS.csproj",
               "ToolTip": "D:\\Lesson\\repos\\NashDecorIS\\NashDecorIS\\NashDecorIS.csproj",
               "RelativeToolTip": "NashDecorIS\\NashDecorIS.csproj",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-13T09:00:07.304Z",
               "EditorCaption": ""
